@@ -1,6 +1,6 @@
 
 
-## ABSOLUTE ESSENTIALS
+## ABSOLUTE ESSENTIALS 2021
 
 *Follow these instructions and you will have a published bookdown book in less than five minutes. If you have any difficulties or have feedback of any kind, please file an issue.*
 
@@ -20,7 +20,7 @@
 
 ### Edit some key files
 
-- [ ] 1. In `index.Rmd`, change YOUR TITLE HERE to your title. 
+- [ ] 1. In `index.Rmd`, change YOUR TITLE HERE to your title.
 
 - [ ] 2. In `index.Rmd`, change YOUR NAME HERE to your name.
 
@@ -40,7 +40,7 @@
 
 - [ ] 3. Use `browseURL("docs/index.html")` to view your book locally (or just open `index.html` in a browser).
 
-- [ ] 4. If it looks good, commit and push all changed files to GitHub. 
+- [ ] 4. If it looks good, commit and push all changed files to GitHub.
 
 (You will need to repeat steps 2 and 4 every time you wish to update the book online.)
 
@@ -57,4 +57,3 @@ A demo video showing how to create a **bookdown book** following these instructi
 ### Additional features
 
 Please consult the official guide to **bookdown**: https://bookdown.org/yihui/bookdown
-
