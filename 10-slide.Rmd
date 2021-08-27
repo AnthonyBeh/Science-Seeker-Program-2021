@@ -8,6 +8,6 @@ Many neuropsychological studies show that patients with brain damage are impaire
 Conclusion: The claim that ‘we only use 10% of our brain’ is not supported by evidence .\
 It is important that we don’t whole-heartedly accept a claim until we evaluate them logically. \
 
-```{r my-fig, fig.cap="Taken from Smith et al (2008), PNAS"}
+```{r brain_fig, fig.cap="Taken from Smith et al (2008), PNAS"}
 knitr::include_graphics("images/brains.png")
 ```
