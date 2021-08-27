@@ -18,3 +18,10 @@ knitr::include_graphics("images/example.jpeg")
 ```{r}
 knitr::include_url("https://www.youtube.com/watch?v=rt-2cxAiPJk")
 ```
+
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/watch?v=rt-2cxAiPJk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
