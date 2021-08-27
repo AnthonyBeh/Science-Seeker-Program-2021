@@ -12,3 +12,9 @@ knitr::include_graphics("images/example.jpeg")
 ### how to embed a miro board/thing to ask question
 
 ### how to embed a youtube video
+![](https://www.youtube.com/watch?v=rt-2cxAiPJk)
+
+####alternatively 
+```{r}
+knitr::include_url("https://www.youtube.com/watch?v=rt-2cxAiPJk")
+```
