@@ -1,6 +1,6 @@
 
 
-## ABSOLUTE ESSENTIALS 2021
+## ABSOLUTE ESSENTIALS 27/8/2021
 
 *Follow these instructions and you will have a published bookdown book in less than five minutes. If you have any difficulties or have feedback of any kind, please file an issue.*
 
