@@ -1,2 +1,14 @@
 # The pool of tears
 
+## Templates that would be useful.
+
+### how to embed a picture
+This is how you put a picture here. \@ref(fig:my-fig)
+
+```{r my-fig, fig.cap="This is spider man."}
+knitr::include_graphics("images/example.jpeg")
+```
+
+### how to embed a miro board/thing to ask question
+
+### how to embed a youtube video

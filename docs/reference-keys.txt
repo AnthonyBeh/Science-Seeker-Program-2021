@@ -1,3 +1,8 @@
+fig:my-fig
 down-the-rabbit-hole
 the-pool-of-tears
+templates-that-would-be-useful.
+how-to-embed-a-picture
+how-to-embed-a-miro-boardthing-to-ask-question
+how-to-embed-a-youtube-video
 a-caucus-race-and-a-long-tale
