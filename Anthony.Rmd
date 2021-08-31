@@ -1,1 +1,71 @@
-# Anthony
+
+
+
+
+
+# Skills of a psychologist
+
+
+
+
+## Recap: Who is a psychologist?
+
+
+
+Psychologist use their knowledge on human behaviour to contribute to the society in various manners
+
+* Applied 
+    + Clinical psychologist
+    + Human resource manager
+    + Counsellor
+    + Sports psychologist
+    
+* Research
+    + Cognitive psychologist
+    + Experimental psychologist
+    + Social psychologist
+  
+
+
+
+
+
+## Know your PLACE
+
+
+
+```{r fig4, out.extra='style="float:right; padding:1px"', out.width = '30%', echo= F}
+knitr::include_graphics("images/04-pic.jpg")
+```
+
+
+### People
+
+* Humans are at the core of a psychologist's career.
+* Traits/skills benefitical for a psychologist:
+    + Effective communication
+    + Empathy
+    + Enthusiastic about people
+    
+
+
+### Literature
+* No... not 'Shakesperean' literature
+* Literature => published academic research
+    + Knowledge is constantly updated (that's why we need research!)
+    + findings are usually published in academic journals
+* A good psychologist should update themselves by keeping touch with the literature.
+* Types of articles
+  + Original research
+  + Systematic review
+  + Meta-analysis
+  + Perspective
+  
+```{r fig5, fig.show = 'hold', out.width = '20%', echo= F}
+knitr::include_graphics(c("images/05-pic1.jpg",
+                          "images/05-pic2.jpg",
+                          "images/05-pic3.jpg",
+                          "images/05-pic4.jpg"))
+
+
+```

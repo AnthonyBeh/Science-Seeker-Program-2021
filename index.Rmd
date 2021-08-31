@@ -1,9 +1,17 @@
 --- 
-title: "SSP-Skills of a psychologist"
-author: "T.V. LIM"
+title: "Science Seeker Program 2021"
+author: "Tsen Vei Lim"
 date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
+site: "bookdown::bookdown_site"
+output:
+  bookdown::gitbook: 
+    config:
+      theme: united
+      fontsettings:
+        theme: night
+        family: serif
+        size: 2
+
 ---
 
-# Down the rabbit-hole
-
+# Psychology
