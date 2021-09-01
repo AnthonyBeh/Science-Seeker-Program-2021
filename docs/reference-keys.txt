@@ -5,9 +5,12 @@ recap-who-is-a-psychologist
 know-your-place
 people
 literature
-josh
+ethics-in-psychology
 what-you-need-to-do-today.
+slides
 discussion-points
+additional-resources
+if-you-are-still-curious
 markdown-templates
 how-to-embed-a-picture
 how-to-embed-a-miro-boardthing-to-ask-question
