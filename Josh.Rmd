@@ -6,6 +6,11 @@ Welcome back to Day 4.Today's lesson will be about Ethics!
 knitr::include_graphics("images/ethics.jpeg")
 ```
 
+> "Ethics is knowing the difference between what you have a right to do and what is right to do."
+> '--- Potter Stewart'
+
+
+
 ## What you need to do today.
 1. Go through the slides
 2. Think about the discussion points below. 
