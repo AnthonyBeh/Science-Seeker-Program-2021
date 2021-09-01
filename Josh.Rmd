@@ -1,8 +1,8 @@
-# Josh
+# Ethics in Psychology
 
 Welcome back to Day 4.Today's lesson will be about Ethics!
 
-```{r ethics, out.extra='style="float:right; padding:1px"', out.width = '30%', echo= F}
+```{r ethics, echo= F}
 knitr::include_graphics("images/ethics.jpeg")
 ```
 
@@ -10,17 +10,17 @@ knitr::include_graphics("images/ethics.jpeg")
 1. Go through the slides
 2. Think about the discussion points below. 
 
-##Slides
-You can download the slides [here](https://docs.google.com/presentation/d/1RDrafkcUWlGqjzsQRo7zymsOJq4DCMiZ/edit?usp=sharing&ouid=111223428760347185688&rtpof=true&sd=true) .
+## Slides
+You can download the slides [here](https://docs.google.com/presentation/d/1RDrafkcUWlGqjzsQRo7zymsOJq4DCMiZ/edit?usp=sharing&ouid=111223428760347185688&rtpof=true&sd=true).
 
 ## Discussion points
-Think about these questions on your own, there are no right or wrong answers, and you are free to consult Google or any resources available to you. 
+*Think about these questions on your own, there are no right or wrong answers, and you are free to consult Google or any resources available to you.*
 
 1. Why is it important to that a person who participates in a research study gives informed consent?
 2. After you experiment has ended, if your participant insist that they don't want their data included in the study, what should you do?
 
 
-##Additional resources
+## Additional resources
 This is an interesting video which talks about some interesting cases which concern ethics.
 It touches on some complicated topics, don't worry if you don't get some of these concepts.  
 ```{r, eval=knitr::is_html_output(excludes = "epub"), results = 'asis', echo = F}
@@ -33,7 +33,7 @@ cat(
 )
 ```
 
-##If you are still curious
+## If you are still curious
 Some related concepts to google: Informed consent, Henrietta Lacks
 
 
