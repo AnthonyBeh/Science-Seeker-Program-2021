@@ -1,3 +1,4 @@
+fig:my-fig
 psychology
 skills-of-a-psychologist
 recap-who-is-a-psychologist
@@ -5,4 +6,10 @@ know-your-place
 people
 literature
 josh
+what-you-need-to-do-today.
+discussion-points
+markdown-templates
+how-to-embed-a-picture
+how-to-embed-a-miro-boardthing-to-ask-question
+how-to-embed-a-youtube-video
 tsen-vei

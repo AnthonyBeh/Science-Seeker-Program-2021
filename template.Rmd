@@ -1,0 +1,23 @@
+# MARKDOWN Templates 
+
+General guide to markdown can be found [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+### how to embed a picture
+This is how you put a picture here. \@ref(fig:my-fig)
+
+```{r my-fig, fig.cap="This is spider man."}
+knitr::include_graphics("images/example.jpeg")
+```
+
+### how to embed a miro board/thing to ask question
+
+### how to embed a youtube video
+```{r, eval=knitr::is_html_output(excludes = "epub"), results = 'asis', echo = F}
+cat(
+'<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/9AI3BkKQhn0"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media;
+  gyroscope; picture-in-picture" allowfullscreen>
+  </iframe>'
+)
+```
